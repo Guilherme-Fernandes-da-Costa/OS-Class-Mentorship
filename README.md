@@ -11,17 +11,20 @@ pq sim.
    ```bash
    cd ./xv6_dev/xv6-public
    ```
-6. execute
+5. execute
    ```bash
    sudo docker run --rm -it -v $(pwd):/xv6-public xv6-docker
    ```
-8. A PARTIR DAQUI JÁ ESTARÁ DENTRO DO QEMU:
-9. execute
+7. A PARTIR DAQUI JÁ ESTARÁ DENTRO DO QEMU:
+8. execute
    ```bash
    make && make qemu-nox
    ```
-11. Vc já estará no xv6, aproveite o EP :).
+9. Vc já estará no xv6, aproveite o EP :).
 
+Obs:
+*Como sair do xv6?*
+Ctrl+A, ou só fechar o terminal mesmo.
 
 ============================================================================================================
      
