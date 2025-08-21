@@ -23,7 +23,7 @@ pq sim.
 9. Vc já estará no xv6, aproveite o EP :).
 
 Obs:
-*Como sair do xv6?*
+*Como sair do xv6?*\
 Ctrl+A, ou só fechar o terminal mesmo.
 
 ============================================================================================================
