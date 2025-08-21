@@ -23,7 +23,7 @@ pq sim.
 11. Vc já estará no xv6, aproveite o EP :).
 
 
-===============================================================================================================
+============================================================================================================
      
 CHAT WITH GORK AI:
 explain to me the xv6 mini-kernelXv6 is a teaching operating system developed by MIT, designed to be simple and clear for educational purposes, particularly for studying operating system concepts. It’s a reimplementation of the Unix Version 6 (v6) kernel, originally developed by Bell Labs in the 1970s, but modernized to run on x86 processors. Xv6 is lightweight, with about 10,000 lines of code, making it an excellent tool for learning how operating systems work without the complexity of production systems like Linux. Below, I’ll explain its key components and how it functions as a mini-kernel, keeping the explanation concise yet comprehensive.
