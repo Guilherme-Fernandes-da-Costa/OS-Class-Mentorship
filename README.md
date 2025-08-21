@@ -1,8 +1,9 @@
 # OS-Class-Mentorship
 
-## Motivação: pq sim.
+*Motivação*:
+pq sim.
 
-## Como executar o xv6 + Docker?
+*Como executar o xv6 + Docker?*
 1. baixe os arquivos Makefile e 'xv6 (xv6 + Docker)'.zip
 2. Execute o Makefile
 3. Descomprima o .zip
