@@ -4,7 +4,7 @@
 pq sim.
 
 *Como executar o xv6 + Docker?*
-1. baixe os arquivos Makefile e 'xv6 (xv6 + Docker)'.zip
+1. baixe os arquivos Makefile e 'xv6 (xv6 com docker e Makefile)'.zip
 2. Execute o Makefile
 3. Descomprima o .zip
 4. execute
